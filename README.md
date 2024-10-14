@@ -2,8 +2,8 @@
 <h2 align="center">🧑‍💻 I'm Anh Phuong from Hai Duong 🎸</h2>
 <div align="center">
 <h3 align="center">👋 Hello, I'm nguyen anh phuong, as known as devNguyenPhuong.</h3>
-<h3>👀 I'm a software engineer.</h3>
-<h3>🌱 I use most of Javascript, C++, Java...</h3>
+<h3>👀 I'm a web developer.</h3>
+<h3>🌱 I use most of Javascript, Java...</h3>
 <h3>☕ And some of popular framework like ReactJS, Spring boot,...</h3>
 </div>
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
